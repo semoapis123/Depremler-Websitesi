@@ -1,4 +1,4 @@
-# Yakında ⚠️
+# Deprem Websitesi ⚠️
 
 ### Backend Kurulumu:
 > 1. cd Backend
